@@ -1,0 +1,24 @@
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		int number = 1
+	    if (number == 1){
+		System.out.println("Your number is 1!");
+		else
+		System.out.println("Your number isnt 1!")
+	    }
+	}
+	
+}
+
+
+
+
+
+
+
+
+  if PC > 2 && ME > 2
+  system.out.println("Game is over")
